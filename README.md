@@ -1,5 +1,5 @@
 🔴 🟡 🟢
-<img src="https://github.com/asd/privategithubrepo/images/output/video1.gif" width="60">
+<img src="https://media.tenor.com/Y7djWyS0-tUAAAAC/dark-ocean.gif" width="60">
 
 # WHERE ARE MY BEANS
 
