@@ -1,5 +1,6 @@
 🔴 🟡 🟢
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://d.furaffinity.net/art/drakemono/1634252962/1634252962.drakemono_banner_blink.gif))
+![Alt Text](https://media.tenor.com/Y7djWyS0-tUAAAAC/dark-ocean.gif)
+
 # WHERE ARE MY BEANS
 
 
