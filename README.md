@@ -1,9 +1,7 @@
 🔴 🟡 🟢
-## Hi there 👋
-### I Really like beans 😤
-i also like game dev
+![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://d.furaffinity.net/art/drakemono/1634252962/1634252962.drakemono_banner_blink.gif))
+# WHERE ARE MY BEANS
 
-![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
