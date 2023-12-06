@@ -1,5 +1,5 @@
 🔴 🟡 🟢
-<img src="https://media.tenor.com/Y7djWyS0-tUAAAAC/dark-ocean.gif" width="60">
+<img src="https://media.tenor.com/Y7djWyS0-tUAAAAC/dark-ocean.gif" width="600">
 
 # WHERE ARE MY BEANS
 
