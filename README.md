@@ -1,6 +1,6 @@
 🔴 🟡 🟢
 
-<img src="https://media.tenor.com/Y7djWyS0-tUAAAAC/dark-ocean.gif" width="2000" height="250"/>
+<img src="https://pfps.gg/assets/banners/3222-aesthetic-blue.gif" width="2000" height="250"/>
 
 # WHERE ARE MY BEANS
 
