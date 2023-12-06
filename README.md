@@ -1,6 +1,7 @@
-🟥 🟨 🟩
-# Hi there 👋
-## I Really like beans 😤
+🔴 🟡 🟢
+## Hi there 👋
+### I Really like beans 😤
+i also like game dev
 
 
 <!--
