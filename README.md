@@ -1,11 +1,13 @@
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Yousif+Salman!;+AI+Developer+🤖;+Building+the+Future+with+AI+🚀)
+  <img src="./original-40818f0afa558d5621591845fb958d43.gif" alt="AI Developer banner" width="100%"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Yousif+Salman!;+AI+Developer+🤖;+Building+the+Future+with+AI+🚀" alt="Typing intro"/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header" alt="Gradient wave divider"/>
 
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousif2326&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousif2326&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub streak stats"/>
   </div>
 
 </div>
@@ -114,17 +116,6 @@
 
 ---
 
-<div align="center">
-
-  ## 📊 GitHub Stats & Activity
-
-  <br/>
-
-  <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yousif2326&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousif2326&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-  </div>
-
   <br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousif2326&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF"/>
@@ -133,9 +124,7 @@
 
   ## 🎨 3D Contribution Graph
 
-  <p align="center">
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
-  </p>
+  ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
   <sub>💡 *This 3D visualization reflects my GitHub contribution activity. The graph updates automatically based on my commits!*</sub>
 

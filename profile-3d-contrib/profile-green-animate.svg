@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="512" viewBox="0 0 1024 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3D contribution graph placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#051937"/>
+      <stop offset="50%" stop-color="#0F3B5F"/>
+      <stop offset="100%" stop-color="#1F8A70"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#16a34a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="512" fill="url(#bg)"/>
+  <g opacity="0.2">
+    <circle cx="150" cy="420" r="140" fill="#ffffff"/>
+    <circle cx="750" cy="120" r="200" fill="#ffffff"/>
+  </g>
+  <g transform="translate(150 120)">
+    <rect x="0" y="220" width="80" height="160" rx="10" fill="url(#bar)">
+      <animate attributeName="height" values="80;160;120;160" dur="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="120" y="160" width="80" height="220" rx="10" fill="url(#bar)">
+      <animate attributeName="height" values="140;220;160;220" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="240" y="100" width="80" height="280" rx="10" fill="url(#bar)">
+      <animate attributeName="height" values="220;280;200;280" dur="6.3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="360" y="60" width="80" height="320" rx="10" fill="url(#bar)">
+      <animate attributeName="height" values="260;320;240;320" dur="6.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="480" y="140" width="80" height="240" rx="10" fill="url(#bar)">
+      <animate attributeName="height" values="180;240;200;240" dur="5.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="512" y="120" font-family="Segoe UI, sans-serif" font-size="42" fill="#e2e8f0" text-anchor="middle">
+    3D Contributions loading...
+  </text>
+  <text x="512" y="170" font-family="Segoe UI, sans-serif" font-size="24" fill="#cbd5f5" text-anchor="middle">
+    Generated for @Yousif2326
+  </text>
+  <text x="512" y="460" font-family="Segoe UI, sans-serif" font-size="20" fill="#94a3b8" text-anchor="middle">
+    This placeholder will be replaced by the GitHub Profile 3D Contrib workflow.
+  </text>
+</svg>
+
