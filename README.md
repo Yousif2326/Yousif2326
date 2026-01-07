@@ -1,236 +1,100 @@
-<div align="center">
+# Hi there, I'm Yousif Salman 👋
 
-  <img src="./original-40818f0afa558d5621591845fb958d43.gif" alt="AI Developer banner" width="100%"/>
+## AI & Machine Learning Developer & Researcher
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Yousif+Salman!;+AI+Developer+🤖;+Building+the+Future+with+AI+🚀" alt="Typing intro"/>
+I'm a passionate AI and Machine Learning developer and researcher focused on applying cutting-edge techniques to solve real-world healthcare challenges. My work spans from developing deep learning models for clinical applications to advancing research in patient-clinical trial matching and missing data imputation in medical research.
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header" alt="Gradient wave divider"/>
+## 🔬 Research
 
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yousif2326&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub streak stats"/>
-  </div>
+My research focuses on leveraging AI and machine learning to improve healthcare outcomes:
 
-</div>
+- **Patient-Clinical Trial Matching**: Developed a neuro-symbolic AI approach combining fine-tuned LLMs with symbolic reasoning to improve the accuracy and interpretability of clinical trial matching. [Read the paper](https://caiac.pubpub.org/pub/99t1p0oz/release/1)
 
----
+- **Missing Data Imputation for Patient-Reported Outcomes**: Comprehensive evaluation of traditional and machine learning methods for handling missing data in esophageal cancer quality-of-life research. [Read the paper](https://www.medrxiv.org/content/10.1101/2025.09.10.25335531v1.full.pdf)
 
-<div align="center">
+## 🤖 Models & Projects
 
-  ## 🚀 About Me
+Check out my models and projects on Hugging Face: [@peachfawn](https://huggingface.co/peachfawn)
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI+Developer+💻;+Passionate+Learner+📚;+Problem+Solver+🔧;+Innovation+Enthusiast+✨"/>
+Some highlights:
+- Fine-tuned LLM models for clinical trial criteria generation
+- YOLOv8 models for plant disease detection
+- Clinical trial matching systems
 
-  <br/>
+## 💻 Languages
 
-  I'm an **AI Developer** passionate about learning and developing cutting-edge AI solutions to solve real-world problems. I thrive on exploring the latest technologies, building intelligent systems, and contributing to the AI community. My journey involves continuous learning, experimentation, and turning complex challenges into elegant solutions.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <br/>
+## 🛠️ Frameworks & Tools
 
-  - 🔭 I'm currently working on **AI/ML projects** and exploring new technologies
-  - 🌱 I'm learning **Advanced Machine Learning**, **Deep Learning**, and **AI Ethics**
-  - 👯 I'm looking to collaborate on **Open Source AI Projects**
-  - 💬 Ask me about **AI**, **Machine Learning**, **Python**, or **Web Development**
-  - 📫 How to reach me: [Your Email/Contact]
-  - ⚡ Fun fact: I believe AI can transform the world for the better!
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
-</div>
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
----
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div align="center">
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-  ## 🛠️ Tech Stack & Skills
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-  <br/>
+### Other Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-  ### Programming Languages & Experience Levels
+## 📊 GitHub Stats
 
-  <br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousif2326&show_icons=true&theme=radical)
 
-  **Python** - Level 9/10
-  `█████████░` 90% ⭐⭐⭐⭐⭐⭐⭐⭐⭐
+## 🔗 Connect with Me
 
-  **JavaScript** - Level 8/10
-  `████████░░` 80% ⭐⭐⭐⭐⭐⭐⭐⭐
-
-  **HTML & CSS** - Level 8/10
-  `████████░░` 80% ⭐⭐⭐⭐⭐⭐⭐⭐
-
-  **TypeScript** - Level 7.5/10
-  `███████░░░` 75% ⭐⭐⭐⭐⭐⭐⭐
-
-  **Java** - Level 7/10
-  `███████░░░` 70% ⭐⭐⭐⭐⭐⭐⭐
-
-  **C++** - Level 6.5/10
-  `██████░░░░` 65% ⭐⭐⭐⭐⭐⭐
-
-  <br/>
-
-  <details>
-  <summary><b>📊 Detailed Skills Breakdown</b></summary>
-
-  ```text
-  Python          ████████████████████░░░░░░░░░░  90%  Level 9
-  JavaScript      ██████████████████░░░░░░░░░░░░  80%  Level 8
-  HTML & CSS      ██████████████████░░░░░░░░░░░░  80%  Level 8
-  TypeScript      ████████████████░░░░░░░░░░░░░░  75%  Level 7.5
-  Java            ███████████████░░░░░░░░░░░░░░░  70%  Level 7
-  C++             ██████████████░░░░░░░░░░░░░░░░  65%  Level 6.5
-  SQL             ██████████████░░░░░░░░░░░░░░░░  65%  Level 6.5
-  React           ████████████████░░░░░░░░░░░░░░  75%  Level 7.5
-  Node.js         ████████████████░░░░░░░░░░░░░░  75%  Level 7.5
-  ```
-
-  </details>
-
-  <br/>
-
-  ### AI/ML Technologies
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  </p>
-
-  ### Frameworks & Tools
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  </p>
-
-</div>
+- **Hugging Face**: [@peachfawn](https://huggingface.co/peachfawn)
+- **GitHub**: [@Yousif2326](https://github.com/Yousif2326)
 
 ---
 
-  <br/>
+*"Advancing healthcare through AI and machine learning, one model at a time."*
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yousif2326&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF"/>
-
-  <br/>
-
-  ## 🎨 3D Contribution Graph
-
-  ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-
-  <sub>💡 *This 3D visualization reflects my GitHub contribution activity. The graph updates automatically based on my commits!*</sub>
-
-</div>
-
----
-
-<div align="center">
-
-  ## 🔥 Current Focus
-
-  <br/>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Building+AI+Solutions+🤖;+Exploring+Deep+Learning+🧠;+Creating+Innovative+Projects+💡"/>
-  </p>
-
-  <br/>
-
-  - 🎯 Developing **Machine Learning Models** for real-world applications
-  - 🔬 Researching **Neural Networks** and **Deep Learning** architectures
-  - 💻 Building **AI-powered Web Applications**
-  - 📚 Contributing to **Open Source AI Projects**
-  - 🌟 Creating **Innovative Solutions** that make a difference
-
-</div>
-
----
-
-<div align="center">
-
-  ## 🏆 Achievements & Highlights
-
-  <br/>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yousif2326&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15"/>
-  </p>
-
-</div>
-
----
-
-<div align="center">
-
-  ## 📈 Contribution Metrics
-
-  <br/>
-
-  <div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Yousif2326&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-  </div>
-
-</div>
-
----
-
-<div align="center">
-
-  ## 🤝 Connect With Me
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/Yousif2326" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/yourprofile" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/yourhandle" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="mailto:your.email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-
-</div>
-
----
-
-<div align="center">
-
-  ## 💡 Random Dev Quote
-
-  <br/>
-
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  </p>
-
-</div>
-
----
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Yousif2326&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </p>
-
-  <p align="center">
-    Made with ❤️ by <b>Yousif Salman</b>
-  </p>
-
-</div>
