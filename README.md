@@ -14,12 +14,9 @@ My research focuses on leveraging AI and machine learning to improve healthcare 
 
 ## 🤖 Models & Projects
 
-Check out my models and projects on <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="20" height="20"> [Hugging Face @peachfawn](https://huggingface.co/peachfawn)
+Check out my models and projects on <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="32" height="32"> [Hugging Face @peachfawn](https://huggingface.co/peachfawn)
 
-Some highlights:
-- Fine-tuned LLM models for clinical trial criteria generation
-- YOLOv8 models for plant disease detection
-- Clinical trial matching systems
+
 
 ## 💻 Languages & 🛠️ Frameworks & Tools
 
@@ -83,16 +80,9 @@ Some highlights:
 </tr>
 </table>
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousif2326&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-
-- **Hugging Face**: <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="16" height="16"> [@peachfawn](https://huggingface.co/peachfawn)
-- **GitHub**: [@Yousif2326](https://github.com/Yousif2326)
 
 ---
 
-*"Advancing healthcare through AI and machine learning, one model at a time."*
+*AI is cool"*
 
